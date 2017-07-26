@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1501107324 source:c:\projects\codeblocksprojects\win32_tutorial_2\main.cpp
+	<tchar.h>
+	<windows.h>
+	"features.h"
+
+1501105411 c:\projects\codeblocksprojects\win32_tutorial_2\include\features.h
+
+1501104774 source:c:\projects\codeblocksprojects\win32_tutorial_2\src\features.cpp
+	"features.h"
+
